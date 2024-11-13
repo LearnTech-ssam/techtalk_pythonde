@@ -10,6 +10,8 @@ Material contained in this repository is to support the Tech Talk.
  
 - [images](https://github.com/LearnTech-ssam/techtalk_pythonde/tree/main/images) contains images shown in this repository.
 
+- [Presentation - Tech Career Talks - Python Data Engineering Skills for Public Datasets.pdf](https://github.com/LearnTech-ssam/techtalk_pythonde/blob/main/Presentation%20-%20Tech%20Career%20Talks%20-%20Python%20Data%20Engineering%20Skills%20for%20Public%20Datasets.pdf) is a pdf version of the presentation that was given during the live Tech Career Talk.
+
 - [README.md](https://github.com/LearnTech-ssam/techtalk_pythonde/blob/main/README.md) is the file you are currently reading.
 
 - [Tech_Talk_Python_DE.html](https://github.com/LearnTech-ssam/techtalk_pythonde/blob/main/Tech_Talk_Python_DE.html) is a html version of the .ipynb file and is screen reader compatible.
